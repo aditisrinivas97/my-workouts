@@ -8,6 +8,8 @@ Super intense, possibly too intense, 6 week long shredathon. Essentially a cutti
 Reps in the format `a + b` imply do `a` reps, change weight, do `b` reps.
 Reps in the format `a / b` will have sets in the format `x / y`, implying do `a` reps for `x` sets, change weight, then do `b` reps for `y` sets. **Higher reps = Lesser weight, and vice versa**.
 
+`-` under the `Weight` column implies that exercise is bodyweight only. You have to track the weights you use for the rest, increase the amount of weight by a small amount as often as possible ([Progressive Overload](https://en.wikipedia.org/wiki/Progressive_overload)).
+
 
 ## Monday - Chest and Back
 
@@ -207,3 +209,32 @@ Superset | Decline Oblique Twists | 15 | |
 ## Sunday
 
 Rest
+
+
+## General Nutrition Guide
+
+Detailed nutrition guides need to be tailored to the individual being considered.
+
+First things first, TDEE (Total Daily Energy Expenditure). Your TDEE represents the amount of calories you generally burn in a day. While cutting, you would need to consume fewer calories than you burn to aid fat loss. Typically, `TDEE - 500` is a good goal to aim for.
+
+Calcualte TDEE [here](https://www.iifym.com/tdee-calculator/).
+
+As for the food itself, aim for high protein, low-moderate carbs and low fat. The website linekd above for TDEE calculation also has a "macro calculator" that will display how much protein, carbs, and fats you need to consume in a day.
+
+Apps like MyFitnessPal will also calculate these things for you.
+
+Personally, I've found the KETO diet insanely fruitful in my pursuit for fat loss/muscle growth. It is however, pretty difficult to maintain.
+
+
+### Noob Gains
+
+If you are starting out, I do not recommend starting with a bulking workout since they involve heavy weights and for a beginner, developing your form is more important than lifting heavy.
+
+That being said, no matter what you do, as a beginner your body is not used to the strain of weightlifting and you will see more than generous muscle growth, fat and weight loss, during the first two or three months.
+
+## Communities 
+
+General Workout Advice: [/r/fitness](https://www.reddit.com/r/fitness/)
+KETO Gains: [/r/ketogains](https://www.reddit.com/r/ketogains/)
+
+`/r/fitness` has a really good FAQ for beginners and is a really supportive community for all your queries.
