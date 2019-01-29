@@ -6,7 +6,7 @@ As a general principle, when trying to bulk up, keep weights as heavy as possibl
 
 This document has a series of workout routines, grouped by primary and secondary muscle groups. The order itself is not fixed, and is upto personal preference.
 
-Everyday, pick a routine, warmup for 5 minutes and then do the routine. Then do one rotation of the [Ab Circuit](#ab-circuit).
+Everyday, pick a routine, warmup for 5 minutes and then do the routine. Then do one rotation of the [Ab Circuit](#ab-circuit) or just end with a 10 minute HIIT cardio sesh.
 
 ##### Note: 60-90 second breaks between sets.
 ##### These workouts should take, at most, 60 minutes.
@@ -15,6 +15,96 @@ Reps in the format `a + b` imply do `a` reps, change weight, do `b` reps.
 Reps in the format `a / b` will have sets in the format `x / y`, implying do `a` reps for `x` sets, change weight, then do `b` reps for `y` sets. **Higher reps = Lesser weight, and vice versa**.
 
 `-` under the `Weight` column implies that exercise is bodyweight only. You have to track the weights you use for the rest, increase the amount of weight by a small amount as often as possible ([Progressive Overload](https://en.wikipedia.org/wiki/Progressive_overload)).
+
+
+
+## Day 1 - Chest, Shoulders, and Back
+
+Exercise | Reps | Sets | Weight
+:- | :-: | :-: | :-:
+Pull Ups | 10 | 2 | -
+Bench Press | 4-6 | 3 | 45 
+Decline DB Press | 6-8 | 3 | 45
+DB Flies | 8-12 | 3 | 25
+Overhead Press | 6-8 | 3 | 25
+Shoulder Press | 6-8 | 3 | 40
+Lat Pulldowns | 6-8 | 3 | 150
+Deadlifts | 6-8 | 3 | 60
+Bicycle Crunches | 12 | 5
+
+
+## Day 2 - Arms and Legs
+
+Exercise | Reps | Sets | Weight
+:- | :-: | :-: | :-:
+Chin Ups | 10 | 2 | -
+Squats | 6-8 | 3 | 60
+Walking Lunges | 6-8 | 3 | 25
+Leg Press | 6-8 | 3 | 350
+Skullcrushers | 6-8 | 3 | 25
+EZ Bar Curls | 6-8 | 3 | 25
+Tricep Rope | 8-12 | 3 | 30
+DB Curls | 6-8 | 3 | 35
+Forearm Curls | 25 | 2 | 15
+DB Forearm Curls | 15 | 2 | 25
+
+
+## Day 3 - Rest/Cardio
+
+Exercise | Reps | Sets | Weight
+:- | :-: | :-: | :-:
+Cardio | 30min | 1 | -
+Ab Circuit | - | 2 | -
+
+
+## Day 4 - Chest and Back
+
+Exercise | Reps | Sets | Weight
+:- | :-: | :-: | :-:
+Pull Ups | 10 | 2 | 
+Incline Bench Press | 8-12 | 3 | 25
+Flat DB Press | 6-8 | 2 | 45
+Incline DB Press | 6-8 | 3 | 45
+DB Flies | 6-8 | 3 | 25
+Machine Flies | 8-12 | 2 | 90
+Lat Pulls | 6-8 | 3 | 150
+BB Rows | 6-8 | 3 | 45
+Deadlifts | 6-8 | 3 | 60
+
+
+## Day 5 - Shoulders and Arms
+
+Exercise | Reps | Sets | Weight
+| :-: | :- | :-: | :-: | :-:
+Chin Ups | 10 | 2 |
+Military Press | 6-8 | 3 | 25
+Arnold Press | 10 | 3 | 20
+Front/Side DB Raise | 6-8 | 3 | 25
+DB Curls | 6-8 | 3 | 35
+Hammer Curls | 6-8 | 2 | 35
+Tricep Pushdowns | 6+12 | 3 | 60+30
+Tricep Pulldowns | 8-12 | 3 | 25
+
+
+## Day 6 - Legs 
+
+Exercise | Reps | Sets | Weight
+| :-: | :- | :-: | :-: | :-:
+Machine Squats | 10 | 3 | 70
+Leg Press | 10 | 3 | 300
+Leg Curls | 6-8 | 3 | 110
+Leg Extensions | 8-12 | 3 | 110
+Calf Press | 20 | 3 | 300
+Calf Raise | 20 | 3 | 70
+
+
+## Day 7 - Rest/Cardio
+
+Exercise | Reps | Sets | Weight
+:- | :-: | :-: | :-:
+Cardio | 30min | 1 | -
+Ab Circuit | - | 2 | -
+
 
 ## Ab Circuit
 
@@ -28,75 +118,6 @@ V Sit Ups | 12 | 1 |
 Dumbbell Side Bends | 15 | 1 | 
 Rope Crunches | 25 | 1 | 
 Plank | 4 min | Any | -
-
-## Chest and Biceps
-
-Exercise | Reps | Sets | Weight
-:- | :-: | :-: | :-:
-Push Ups | 50 | Any | - 
-Decline Machine Bench Press | 6 + 6 + 6 | 3 |
-Bench Press | 6 + 6 + 6 | 2 |
-Smith Machine Bench Press | 6 + 6 + 6 | 2 |
-Dips | 15 | 2 |
-Cable Crossover Flies | 15 | 3 |
-Machine Pec Fly | 10 | 2 |
-Cable Curls | 6 + 6 + 6 | 3
-
-## Back and Triceps
-
-Exercise | Reps | Sets | Weight
-:- | :-: | :-: | :-:
-Pull Ups | 10 | 3 | -
-Bent Over Barbell Rows | 10 | 4
-Deadlift | 6-8 | 3
-Cable Rows | 6 + 6 + 6 + 6 | 3
-T Bar Rows | 6 + 6 + 6 | 3
-Tricep Pushdown | 6 + 6 + 6 + 6 | 3
-
-## Shoulders
-
-Type | Exercise | Reps | Sets | Weight
-| :-: | :- | :-: | :-: | :-:
-| | Shoulder Press | 6 + 6 + 6 | 3
-| Superset | Lateral Dumbbell Raise | 10 | 3
-| Superset | Front Dumbbell Raise | 8 | 
-| | Shrugs | 10 | 2
-| | Shrugs - Smith Machine | 6 + 6 + 6 | 2
-| | Face pull/Rear Delts | 12 | 3
-| | Smith Machine Military Press | 9 | 3
-
-
-## Arms
-
-Type | Exercise | Reps | Sets | Weight
-| :-: | :- | :-: | :-: | :-:
-| | Chin Ups | 10 | 3
-| Superset | Barbell Bicep Curls | 6 | 3
-| Superset | Reverse Barbell curls | 6 | 
-| | Cable Curls | 6 + 6 + 6 | 3
-| Superset | Dumbbell Bicep Curl | 6 | 
-| Superset | Hammer Curl | 6 | 
-| | Preacher Curl | 5 + 10 / 5 + 10 + 15 | 2
-| | Bench Dips | 10 | 3
-| Superset | Tricep Pulldown with Rope | 10 | 2
-| Superset | Overhead Cable Tricep Extension | 10 | 2
-| | Overhead Dumbbell Tricep Extension | 10 | 2
-| | Dumbbell Kickbacks | 10 | 2
-| Superset | Forearm curls | 20 | 4
-| Superset | Reverse Forearm curls | 20 | 
-
-
-## Legs
-
-Exercise | Reps | Sets | Weight
-| :-: | :- | :-: | :-: | :-:
-Lunges | 10 | 3
-Squats | 10 | 3
-Leg Curls | 5 + 10 | 3
-Leg Extension | 5 + 10 | 3
-Leg Press | 5 + 10 | 3
-Weighted Calf Raises | 15 | 2
-Standing Calf Raises | 25 | 2 | -
 
 
 ## General Nutrition Guide
