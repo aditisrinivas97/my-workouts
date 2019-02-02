@@ -61,7 +61,7 @@ Ab Circuit | - | 2 | -
 
 Exercise | Reps | Sets | Weight
 :- | :-: | :-: | :-:
-Pull Ups | 10 | 2 | 
+Pull Ups | 10 | 2 | |
 Incline Bench Press | 8-12 | 3 | 25
 Flat DB Press | 6-8 | 2 | 45
 Incline DB Press | 6-8 | 3 | 45
@@ -75,8 +75,8 @@ Deadlifts | 6-8 | 3 | 60
 ## Day 5 - Shoulders and Arms
 
 Exercise | Reps | Sets | Weight
-| :-: | :- | :-: | :-: | :-:
-Chin Ups | 10 | 2 |
+:- | :-: | :-: | :-:
+Chin Ups | 10 | 2 | |
 Military Press | 6-8 | 3 | 25
 Arnold Press | 10 | 3 | 20
 Front/Side DB Raise | 6-8 | 3 | 25
@@ -89,7 +89,7 @@ Tricep Pulldowns | 8-12 | 3 | 25
 ## Day 6 - Legs 
 
 Exercise | Reps | Sets | Weight
-| :-: | :- | :-: | :-: | :-:
+ :- | :- | :-: | :-:
 Machine Squats | 10 | 3 | 70
 Leg Press | 10 | 3 | 300
 Leg Curls | 6-8 | 3 | 110
