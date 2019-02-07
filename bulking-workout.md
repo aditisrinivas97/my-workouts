@@ -27,10 +27,10 @@ Bench Press | 4-6 | 3 | 45
 Decline DB Press | 6-8 | 3 | 45
 DB Flies | 8-12 | 3 | 25
 Overhead Press | 6-8 | 3 | 25
-Shoulder Press | 6-8 | 3 | 40
-Lat Pulldowns | 6-8 | 3 | 150
-Deadlifts | 6-8 | 3 | 60
-Bicycle Crunches | 12 | 5
+Shoulder Press | 6-8 | 3 | 45
+Lat Pulldowns | 6-8 | 3 | 160
+Deadlifts | 6-8 | 3 | 70
+Decline Sit Ups | 10 | 5 | 75
 
 
 ## Day 2 - Arms and Legs
@@ -43,8 +43,8 @@ Walking Lunges | 6-8 | 3 | 25
 Leg Press | 6-8 | 3 | 350
 Skullcrushers | 6-8 | 3 | 25
 EZ Bar Curls | 6-8 | 3 | 25
-Tricep Rope | 8-12 | 3 | 30
-DB Curls | 6-8 | 3 | 35
+Tricep Rope | 8-12 | 3 | 35
+DB Curls | 6-8 | 3 | 40
 Forearm Curls | 25 | 2 | 15
 DB Forearm Curls | 15 | 2 | 25
 
@@ -67,7 +67,7 @@ Flat DB Press | 6-8 | 2 | 45
 Incline DB Press | 6-8 | 3 | 45
 DB Flies | 6-8 | 3 | 25
 Machine Flies | 8-12 | 2 | 90
-Lat Pulls | 6-8 | 3 | 150
+Lat Pulls | 6-8 | 3 | 160
 BB Rows | 6-8 | 3 | 45
 Deadlifts | 6-8 | 3 | 60
 
@@ -78,10 +78,10 @@ Exercise | Reps | Sets | Weight
 | :-: | :- | :-: | :-: | :-:
 Chin Ups | 10 | 2 |
 Military Press | 6-8 | 3 | 25
-Arnold Press | 10 | 3 | 20
-Front/Side DB Raise | 6-8 | 3 | 25
-DB Curls | 6-8 | 3 | 35
-Hammer Curls | 6-8 | 2 | 35
+(Single Arm) Arnold Press | 10 | 3 | 25
+Front/Side DB Raise | 6-8 | 3 | 35
+DB Curls | 6-8 | 3 | 40
+Hammer Curls | 6-8 | 2 | 40
 Tricep Pushdowns | 6+12 | 3 | 60+30
 Tricep Pulldowns | 8-12 | 3 | 25
 
